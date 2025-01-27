@@ -15,7 +15,7 @@
 - A passionate Self-taught Full Stack developer
 - Currently learning Web Development by Self
 - Personal website [link](https://byQuesters.github.io/Portfolio/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://ambrizalberto.github.io/Portfolio/CVEN.pdf)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://byQuesters.github.io/Portfolio/CVEN.pdf)
 - I love programming ^^
 
 <br>
@@ -32,7 +32,7 @@ class Questers():
     self.username = "Questers";
     self.location = "Manzanillo, Colima, Mexico";
     self.email = "albertpoambez@icloud.com";
-    self.web = "https://ambrizalberto.github.io/Portfolio/";
+    self.web = "https://byQuesters.github.io/Portfolio/";
   
   def __str__(self):
     return self.name
@@ -120,7 +120,7 @@ if __name__ == '__main__':
 
 <div align="center">
 
-<a href="https://github.com/AmbrizAlberto/">
+<a href="https://github.com/byQuesters/">
   <img src="https://github-readme-stats.vercel.app/api?username=AmbrizAlberto&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmbrizAlberto&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="AmbrizAlberto"/>
 
