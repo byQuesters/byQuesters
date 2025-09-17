@@ -110,39 +110,8 @@ if __name__ == '__main__':
 <br>
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <br>
-
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-<br>
-
-<div align="center">
-
-<a href="https://github.com/byQuesters/">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmbrizAlberto&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmbrizAlberto&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="AmbrizAlberto"/>
-
-</a>
-</div>
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
-
-<div align="center">
-  <a href="https://byQuesters.github.io/Portfolio/" target="_blank">
-    <img src="/resources/grid-snake.svg" alt=""
-         style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
-  </a>
-</div>
-
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
-
-<br>
-<br>
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
@@ -157,24 +126,38 @@ if __name__ == '__main__':
 
 <br>
 
-
 <a href="mailto:albertpoambez@icloud.com?subject=Correo%20Importante%20de%20Contacto%20Github%20&body=Hola%20Alberto,%0D%0A%0D%0AQuisiera%20ponerme%20en%20contacto%20contigo.%0D%0A%0D%0ASaludos,%0D%0ATu%20Nombre">
 <img src="https://img.shields.io/badge/email: albertpoambez-%23EA4335.svg?style=for-the-badge&logo=icloud&logoColor=white" t=email style="margin-bottom: 5px;" />
 </a>
-
-
 	
 </ul>
 </div>
 
+<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+<div align="left">
+  <a href="https://byQuesters.github.io/Portfolio/" target="_blank">
+    <img src="/resources/grid-snake.svg" alt=""
+         style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
+  </a>
+</div>
+
+<br>
+<br>
+<br>
+
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-
+<br>
 <div align='center'>
 
 <p align = "center">
+	<br><br>
 	<a href="#"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-		
+
+<br><br>
 ##  <b>If you can imagine it, you can program it. ✨
 </p>
