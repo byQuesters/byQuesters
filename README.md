@@ -13,10 +13,10 @@
 <br><br>
 
 - A passionate Self-taught Full Stack developer
-- Currently learning Web Development by Self
+- Allways learning new technologies by Self
 - Personal website [link](https://byQuesters.github.io/Portfolio/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://byQuesters.github.io/Portfolio/CVEN.pdf)
-- I love programming ^^
+- I love programming & learning ^^
 
 <br>
 <br>
@@ -25,12 +25,12 @@
 <p align="center">
 
 ```python
-class Questers():
+class byQuesters():
     
   def __init__(self):
     self.name = "Alberto Ambriz";
     self.username = "Questers";
-    self.location = "Manzanillo, Colima, Mexico";
+    self.location = "Colima, Mexico";
     self.email = "albertpoambez@icloud.com";
     self.web = "https://byQuesters.github.io/Portfolio/";
   
@@ -38,7 +38,7 @@ class Questers():
     return self.name
 
 if __name__ == '__main__':
-    me = Questers()
+    me = byQuesters()
 ```
 </p>
 
@@ -169,5 +169,5 @@ if __name__ == '__main__':
 <p align = "center">
 	<a href="#"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 		
-##  <b>Si lo puedes imaginar, lo puedes programar ✨
+##  <b>If you can imagine it, you can program it. ✨
 </p>
