@@ -65,7 +65,9 @@ if __name__ == '__main__':
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![ANGULAR](https://img.shields.io/badge/ANGULAR%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+   ![Next.js](https://img.shields.io/badge/Next.js%20-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
@@ -74,7 +76,6 @@ if __name__ == '__main__':
 
     ![Prisma](https://img.shields.io/badge/Prisma%20-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
     ![PHP](https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-    ![Next.js](https://img.shields.io/badge/Next.js%20-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
     ![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
     ![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
